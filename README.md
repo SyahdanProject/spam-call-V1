@@ -9,6 +9,6 @@ $ git clone https://github.com/SyahdanProject/spam-call-V1
 ```
 ## run
 ```php
-$ cd spam-call
+$ cd spam-call-V1
 $ php run.php
 ```
